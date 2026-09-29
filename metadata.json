@@ -1,0 +1,6 @@
+{
+  "name": "바이브 카페 - 주문서 및 주문 관리",
+  "description": "따뜻하고 아늑한 바이브 카페의 실시간 예상 금액 계산 온라인 주문서 및 Supabase 연동 지원",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

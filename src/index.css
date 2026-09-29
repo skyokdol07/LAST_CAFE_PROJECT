@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: '맑은 고딕', 'Malgun Gothic', 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background-color: #faf6f0;
+    color: #3b281c;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* 포커스 시 갈색 테두리와 연한 갈색 그림자 스타일 */
+.cafe-input:focus {
+  border-color: #6b4226 !important;
+  box-shadow: 0 0 0 3px rgba(107, 66, 38, 0.2) !important;
+  outline: none;
+}
